@@ -1,0 +1,15 @@
+/Users/rickyli/Workspaces/skinet/Infrastructure/bin/Debug/net8.0/Infrastructure.deps.json
+/Users/rickyli/Workspaces/skinet/Infrastructure/bin/Debug/net8.0/Infrastructure.dll
+/Users/rickyli/Workspaces/skinet/Infrastructure/bin/Debug/net8.0/Infrastructure.pdb
+/Users/rickyli/Workspaces/skinet/Infrastructure/bin/Debug/net8.0/Core.dll
+/Users/rickyli/Workspaces/skinet/Infrastructure/bin/Debug/net8.0/Core.pdb
+/Users/rickyli/Workspaces/skinet/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/rickyli/Workspaces/skinet/Infrastructure/obj/Debug/net8.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rickyli/Workspaces/skinet/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/rickyli/Workspaces/skinet/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfo.cs
+/Users/rickyli/Workspaces/skinet/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/rickyli/Workspaces/skinet/Infrastructure/obj/Debug/net8.0/Infrastr.15EFFBFE.Up2Date
+/Users/rickyli/Workspaces/skinet/Infrastructure/obj/Debug/net8.0/Infrastructure.dll
+/Users/rickyli/Workspaces/skinet/Infrastructure/obj/Debug/net8.0/refint/Infrastructure.dll
+/Users/rickyli/Workspaces/skinet/Infrastructure/obj/Debug/net8.0/Infrastructure.pdb
+/Users/rickyli/Workspaces/skinet/Infrastructure/obj/Debug/net8.0/ref/Infrastructure.dll
