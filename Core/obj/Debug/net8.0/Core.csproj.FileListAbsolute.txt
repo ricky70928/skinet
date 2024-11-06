@@ -9,3 +9,4 @@
 /Users/rickyli/Workspaces/skinet/Core/obj/Debug/net8.0/refint/Core.dll
 /Users/rickyli/Workspaces/skinet/Core/obj/Debug/net8.0/Core.pdb
 /Users/rickyli/Workspaces/skinet/Core/obj/Debug/net8.0/ref/Core.dll
+/Users/rickyli/Workspaces/skinet/Core/obj/Debug/net8.0/Core.sourcelink.json
